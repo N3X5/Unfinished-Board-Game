@@ -1,0 +1,5 @@
+package Buildings;
+
+public enum BuildingType {
+	BRIDGE, BRIDGE_60, BRIDGE_120, TUNNEL, TUNNEL_60, TUNNEL_120, CASTLE, CASTLE_LVL2, CASTLE_LVL3, HOUSE
+}
